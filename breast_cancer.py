@@ -11,6 +11,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.title('BREAST CANCER CLASSIFICATION MODEL')
+from PIL import Image
+
+img = Image.open('https://github.com/okoliechykwuka/Streamlit-App/blob/master/Breast_cancer.jpg')
+st.image(img, width = 300)
 
 # Todays Date
 import datetime
