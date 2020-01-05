@@ -11,12 +11,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-st.title('BREAST CANCER CLASSIFICATION MODEL')
-from PIL import Image
-
-img = Image.open('Breast_cancer.jpg ')
-st.image(img, width = 300)
-
 # Todays Date
 import datetime
 st.date_input('Today date', datetime.datetime.now())
