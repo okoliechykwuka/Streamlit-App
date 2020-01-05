@@ -10,6 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+st.title('BREAST CANCER CLASSIFICATION MODEL')
 
 # Todays Date
 import datetime
