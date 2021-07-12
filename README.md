@@ -7,6 +7,4 @@ This is a breast cancer machine learning classification app buith with streamlit
 ![test1](https://github.com/okoliechykwuka/Streamlit-App/blob/master/Breast_cancer.jpg)
 
 
-**Project Website** 
-
-[Link](https://cancer-classification-app.herokuapp.com)
+**Project Website**     [Link](https://cancer-classification-app.herokuapp.com)
